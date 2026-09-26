@@ -1,20 +1,37 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Zenin OS
 
-# Run and deploy your AI Studio app
+**Build your day. Build yourself.**
 
-This contains everything you need to run your app locally.
+Zenin OS is an Android productivity app designed to help you plan your day, stay focused, build better habits, and track your progress.
 
-View your app in AI Studio: https://ai.studio/apps/71dc7841-5ae8-4cff-af0e-37a53a5b7690
+## Features
 
-## Run Locally
+* 📋 Tasks & daily planning
+* 🤖 AI Day Planner
+* ⏱️ Focus Timer
+* 🔥 Habit tracking & streaks
+* 🔔 Reminders
+* 📊 Productivity insights
+* 📝 Daily Review
 
-**Prerequisites:**  Node.js
+## Pro
 
+**₹79 Lifetime**
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Pro includes additional productivity features, AI Day Planner, and advanced insights.
+
+## Download
+
+Download the latest Android APK from the **Releases** section of this repository.
+
+## Developer
+
+**Harjeet**
+
+* Instagram: [@harjeet_vx](https://instagram.com/harjeet_vx)
+
+* Email: [jharjeet95@gmail.com](mailto:jharjeet95@gmail.com)
+
+---
+
+**Zenin OS — Plan. Focus. Build.**
