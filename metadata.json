@@ -1,0 +1,8 @@
+{
+  "name": "Landing Page Of Zenin OS",
+  "description": "Zenin OS is a native Android productivity, discipline, and daily-planning application built with Java, MVVM, Room Database, and Material Design XML Views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
